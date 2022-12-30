@@ -1,0 +1,66 @@
+html{
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    margin: 0px;
+    background-color: silver;
+}
+
+header {
+    background-color: rgb(9, 196, 196);
+    color: rgb(221, 231, 223);
+    padding: 2rem 2rem;
+}
+
+h1{
+    font-size: 3rem;
+    text-align: center;
+}
+.contenido {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+section article {
+    transition: box-shadow 0.3s ease;
+    background-color: #fff;
+    margin: 1rem;
+    border-radius: 0.5rem;
+    padding: 2ren;
+    Cursor: pointer;
+}
+
+section article:hover {
+    box-shadow: 0.1rem 0.4rem rgba(0,0,0,0.9);
+}
+
+section article h2, section article p{
+    margin: 2rem;
+}
+
+h1{
+    font-size: 3rem;
+    text-align: center;
+}
+
+.contendo{
+    width: 1000px;
+    margin: auto;
+}
+
+section article{
+    transition: box-shadow 0.3s ease;
+    /* background-color: black; */
+    margin: 1rem;
+    border-radius: 0.5rem;
+    padding: 2rem;
+    cursor: pointer;
+}
+
+section article:hover{
+    box-shadow: 00.1rem 0.4rem rgba(0,0,0,0.9);
+}
+
+section article h2, section article p{
+    margin: 2rem;
+}
